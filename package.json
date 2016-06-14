@@ -1,0 +1,30 @@
+{
+  "name": "static-gen",
+  "version": "0.0.1",
+  "description": "Static site gen with Gulp, Nunjucks, and preprocess",
+  "main": "gulpfile.js",
+  "dependencies": {
+    "gulp": "^3.9.1",
+    "gulp-flatmap": "^1.0.0",
+    "gulp-folders": "^1.1.0",
+    "gulp-preprocess": "^2.0.0",
+    "gulp-rename": "^1.2.2",
+    "gulp-wrap": "^0.13.0",
+    "json-query": "^2.1.0",
+    "path": "^0.12.7"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andrewkdesigns/static-gen.git"
+  },
+  "author": "Andrew Kemp",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andrewkdesigns/static-gen/issues"
+  },
+  "homepage": "https://github.com/andrewkdesigns/static-gen#readme"
+}
