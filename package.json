@@ -15,7 +15,8 @@
     "nunjucks": "^2.4.2",
     "path": "^0.12.7",
     "postcss": "^5.0.21",
-    "postcss-cssnext": "^2.6.0"
+    "postcss-cssnext": "^2.6.0",
+    "run-sequence": "^1.2.1"
   },
   "devDependencies": {
     "gulp-util": "^3.0.7"
