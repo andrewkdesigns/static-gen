@@ -4,6 +4,7 @@
   "description": "Static site gen with Gulp, Nunjucks, and preprocess",
   "main": "gulpfile.js",
   "dependencies": {
+    "del": "^2.2.0",
     "gulp": "^3.9.1",
     "gulp-flatmap": "^1.0.0",
     "gulp-folders": "^1.1.0",
