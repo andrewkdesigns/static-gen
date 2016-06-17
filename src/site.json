@@ -1,0 +1,18 @@
+{
+    "pages": [
+        {
+            "title": "Homepage",
+            "template": "home/index.html",
+            "nav_name": "Home",
+            "slug": "index",
+            "enabled": true
+        },
+        {
+            "title": "About",
+            "template": "about/about.html",
+            "nav_name": "About",
+            "slug": "about",
+            "enabled": true
+        }
+    ]
+}

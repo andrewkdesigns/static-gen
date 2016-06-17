@@ -1,0 +1,27 @@
+/*
+ * Banner
+ */
+
+.banner {
+    background-color: #000;
+    background-image: url(../img/alley.jpg);
+    background-size: cover;
+}
+
+.banner .inner {
+    background-color: #000;
+    background-color: rgba(0, 0, 0, 0.2);
+}
+
+.banner .title {
+    color: #fff;
+    margin: 0;
+}
+
+.red {
+    background-color: #e95b4b;
+}
+
+.red h2 {
+    color: #fff;
+}
